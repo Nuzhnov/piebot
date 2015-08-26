@@ -1,0 +1,6 @@
+#virtualenv
+/pybot/*
+
+*.pyc
+
+*.py~
