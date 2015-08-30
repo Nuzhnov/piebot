@@ -1,6 +1,8 @@
 #virtualenv
 /pybot/*
 
+config_test.py
+
 *.pyc
 
 *.py~
